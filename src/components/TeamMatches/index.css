@@ -1,0 +1,47 @@
+.redBlack {
+  background-image: linear-gradient(to bottom, #d91c1f, #2e2e2d);
+}
+.green-yellow {
+  background-image: linear-gradient(to bottom, #96f54e, #f1f73b);
+}
+.pink-blue {
+  background-image: linear-gradient(to bottom, #fc7cd4, #81a2fc);
+}
+.brown-black {
+  background-image: linear-gradient(to bottom, #9c2424, #2e2e2d);
+}
+.blue-violet {
+  background-image: linear-gradient(to bottom, #81a2fc, #8f00ff);
+}
+.grey-brown {
+  background-image: linear-gradient(to bottom, #8c8a85, #9c2424);
+}
+.goldenrod-red {
+  background-image: linear-gradient(to bottom, #96f54e, #f1f73b);
+}
+.blue-white {
+  background-image: linear-gradient(to bottom, blue, white);
+}
+.red-green {
+  background-image: linear-gradient(to bottom, red, green);
+}
+.yellow-pink {
+  background-image: linear-gradient(to bottom, yellow, pink);
+}
+.team-match-bg-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  padding-top: 30px;
+}
+.banner-image {
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.latest-matches-heading {
+  color: white;
+  font-size: 12px;
+  font-family: bree serif;
+  margin-bottom: 5px;
+}
